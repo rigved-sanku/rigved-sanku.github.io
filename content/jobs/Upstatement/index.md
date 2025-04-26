@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2025-01-15'
+title: 'ADAS Computer Vision Intern'
+company: 'Honda Research Institute'
+location: 'San Jose, CA'
+range: 'Jan 2025 – Present'
+url: 'https://www.honda-ri.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Built a **real-time driver-intent prediction** pipeline that fuses 2-D / 3-D body-pose and head-pose cues, achieving **95 % accuracy** with end-to-end latency under **30 ms**.
+- Ported the models to **TensorRT FP16** with ONNX graph cleanup, delivering a **3 × speed-up** and **30 % GPU-memory reduction** for edge deployment.
+- Filed provisional U.S. patent **#63/782 414** covering the multimodal vision architecture for intent prediction.

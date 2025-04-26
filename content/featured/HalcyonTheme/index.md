@@ -1,15 +1,18 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
+date: '2024-05-20'
+title: 'Tesla Vision w/ Blender Visualization'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+#github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://drive.google.com/file/d/1oHou6dvBSZXjW5Z-boLfd3GG388aZdY_/view'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Object Detection
+  - Semantic Segmentation
+  - Optical Flow
+  - Pose Estimation
+  - Blender
+  - Pytorch
+  - Python
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Engineered comprehensive ADAS computer vision stack integrating DETIC for instance segmentation for traffic and vehicle lights,YOLO3D for 6D-pose estimation, UniDepth for depth estimation, Mask R-CNN for lane detection, RAFT optical flow for
+movement analysis, OSX for 3D human mesh, rendering all elements dynamically in Blender for visualization like Tesla dashboard.

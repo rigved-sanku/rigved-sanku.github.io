@@ -1,12 +1,13 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2021-12-01'
+title: 'Deep Learning Intern'
+company: 'Dept. of PwD, Govt. of India'
+location: 'New Delhi, India'
+range: 'Dec 2021 – May 2022'
+url: 'https://disabilityaffairs.gov.in/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- **Engineered an audio-guided navigation assistant** for the visually impaired, fusing Vision Transformers with LiDAR depth to detect obstacles and announce safe walking paths in real time.
+- Designed an **IMU-based fall-detection module** that combined accelerometer and gyroscope data through sensor-fusion filters, reaching a **94 % detection rate** with < 200 ms latency on ARM devices.
+- Built a multimodal Vision–Language pipeline (VQA + image captioning) using BERT encoders and LLM decoders, achieving **85 % accuracy** while remaining lightweight enough for Jetson-class edge hardware.
+- Delivered Dockerized prototypes, documentation, and a recorded demo to rehabilitation-center partners, enabling rapid adoption in assistive-technology trials.

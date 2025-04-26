@@ -1,16 +1,17 @@
 ---
-date: '3'
-title: 'Build a Spotify Connected App'
+date: '2024-02-20'
+title: '3-D Scene Reconstruction with SfM & Neural Rendering'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+github: 'https://github.com/rigved-sanku/NeRF-Implementation-for-Efficient-3D-Scene-Reconstruction'
+external: 'https://drive.google.com/file/d/191Jkv1Q44M3D3gIVyh1QFXB0p5yd0nXj/view'
+
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - COLMAP / SfM
+  - NeRF
+  - Open3D
+  - PyTorch
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+I built a pipeline that turns a set of photos into a full 3-D model you can view from any angle. First, I used **Structure-from-Motion** in COLMAP to find camera poses and a sparse point cloud. Next, I densified the geometry with Open3D and fed the results into a **Neural Radiance Field (NeRF)**, which learns how light flows through the scene and produces smooth, realistic renderings.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+The project taught me feature matching, bundle adjustment, point-cloud processing, and the basics of neural rendering while giving me plenty of practice with PyTorch and 3-D visualisation tools.
