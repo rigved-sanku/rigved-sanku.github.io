@@ -1,7 +1,7 @@
 ---
 date: '2024-01-01'
 title: 'Dynamic MATLAB Simulation and Control of 7-DOF Baxter Robot Arm'
-cover: './baxter-dynamics.png' # add a joint trajectory plot or GUI screenshot
+cover: './images/blistabloc.png' # add a joint trajectory plot or GUI screenshot
 external: 'https://drive.google.com/file/d/1oHou6dvBSZXjW5Z-boLfd3GG388aZdY_/view' # update if needed
 tech:
   - MATLAB

@@ -1,7 +1,7 @@
 ---
 date: '2023-09-01'
 title: 'Model-Free Reinforcement Learning: Monte Carlo and Temporal Difference'
-cover: './model-free-rl.png' # add a diagram or environment screenshot
+cover: './images/blistabloc.png' # add a diagram or environment screenshot
 github: 'https://github.com/rigved-sanku/RL-Project' # update if stored separately
 external: 'https://drive.google.com/file/d/1qnPuuJ2LFVJ7cA9S-Ua0RLsz7m9WTay1/view'
 tech:

@@ -1,7 +1,7 @@
 ---
 date: '2021-01-01'
 title: 'English-German Language Translation using Attention-based Seq2Seq'
-cover: './eng-ger-nlp.png' # include an attention heatmap or architecture diagram
+cover: './images/blistabloc.png' # include an attention heatmap or architecture diagram
 github: 'https://github.com/rigved-sanku/NLP-Translation-Attention' # update if different
 tech:
   - LSTM

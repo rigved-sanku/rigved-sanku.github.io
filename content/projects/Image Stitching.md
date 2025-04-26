@@ -1,7 +1,7 @@
 ---
 date: '2024-03-01'
 title: 'Classical and DL Approaches for Image Stitching and Homography Estimation'
-cover: './homography-stitching.png' # add an appropriate image or GIF
+cover: './images/blistabloc.png' # add an appropriate image or GIF
 external: 'https://drive.google.com/file/d/18IIn4fKLJwXArxCD3hCMYhHcUndLkk66/view' # update with correct report link
 tech:
   - Harris Corner

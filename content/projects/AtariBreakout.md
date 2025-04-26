@@ -1,7 +1,7 @@
 ---
 date: '2023-10-01'
 title: 'Deep Q-Learning Network Implementation for Atari Breakout'
-cover: './dqn-breakout.png' # add a gameplay or learning curve visual
+cover: './images/blistabloc.png' # add a gameplay or learning curve visual
 github: 'https://github.com/rigved-sanku/RL-Project' # use the correct repo if different
 external: 'https://drive.google.com/file/d/1qnPuuJ2LFVJ7cA9S-Ua0RLsz7m9WTay1/view' # report or demo link
 tech:

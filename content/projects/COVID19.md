@@ -1,7 +1,7 @@
 ---
 date: '2020-10-01'
 title: 'Predictive Analysis of COVID-19 using Deep Neural Networks'
-cover: './covid-dnn.png' # add a line plot of predictions or a network architecture diagram
+cover: './images/blistabloc.png' # add a line plot of predictions or a network architecture diagram
 github: 'https://github.com/rigved-sanku/COVID-Prediction-Numpy' # update if different
 tech:
   - MLP

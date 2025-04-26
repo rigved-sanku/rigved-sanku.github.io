@@ -1,7 +1,7 @@
 ---
 date: '2023-12-01'
 title: 'Quadrotor Waypoint Tracking with Deep Reinforcement Learning'
-cover: '/course-card.png' # add a representative image or GIF here
+cover: './images/blistabloc.png' # add a representative image or GIF here
 github: 'https://github.com/rigved-sanku/RL-Project'
 external: 'https://drive.google.com/file/d/1PYpT2Yj0VRsDcxRQEEQq4EWM_TwxmgUH/view'
 tech:
