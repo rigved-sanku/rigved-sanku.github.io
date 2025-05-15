@@ -105,7 +105,9 @@ const About = () => {
   const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
-    if (prefersReducedMotion) {return;}
+    if (prefersReducedMotion) {
+      return;
+    }
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
@@ -131,17 +133,19 @@ const About = () => {
             <p>
               Hey, I’m <strong>Rigved Sanku</strong> — a robotics & computer-vision engineer who
               loves turning cutting-edge research into real-world products. My fascination with
-              perception began in undergrad while hacking together a Visual-Inertial Odometry demo;
-              since then I’ve chased every project that lets me fuse math, code, and hardware.
+              perception began in undergrad while hacking together a Jarvis-like audio assistant for
+              the visually impared using Vision-Language models; since then I’ve chased every
+              project that lets me fuse math, code, and hardware.
             </p>
 
             <p>
-              Today I’m an ADAS Computer Vision Intern at&nbsp;
+              I just completed my internship as an ADAS Computer Vision Research Engineer at&nbsp;
               <a href="https://www.honda-ri.com/">Honda Research Institute</a>, where I build
               low-latency driver-intent prediction pipelines that run at &lt;30 ms on embedded GPUs
-              (and recently filed my first US patent along the way). Before that I shipped crowd-
-              monitoring and person-reID systems at MUSCO Vision and explored real-time action
-              prediction with ISRO.
+              of self driving cars (and recently filed my first US patent along the way). Before
+              that I shipped crowd- monitoring and person-reID systems at MUSCO Vision, IA, USA and
+              explored real-time action prediction with Indian Space Research Organization (ISRO),
+              India.
             </p>
 
             <p>

@@ -67,9 +67,9 @@ const Hero = () => {
       <p>
         I’m a machine learning and computer vision engineer specializing in real-time 3D perception,
         intent prediction, and autonomous systems. I've built patented ADAS solutions at Honda and
-        published research submitted to top-tier conferences like IROS and ICCV. Currently, I'm
-        focused on creating scalable deep learning pipelines, working at the intersection of machine
-        learning, robotics, and multimodal understanding.
+        published research submitted to top-tier conferences/journals like IROS and Springer Nature.
+        Currently, I'm focused on creating scalable deep learning pipelines, working at the
+        intersection of machine learning, robotics, and multimodal understanding.
       </p>
     </>
   );

@@ -1,7 +1,7 @@
 ---
 date: '2025-01-15'
 title: 'ADAS Computer Vision Intern'
-company: 'Honda Research Institute'
+company: 'Honda Research Institute (HRI)'
 location: 'San Jose, CA'
 range: 'Jan 2025 – Present'
 url: 'https://www.honda-ri.com/'

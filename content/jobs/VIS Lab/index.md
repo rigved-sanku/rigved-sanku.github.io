@@ -1,7 +1,7 @@
 ---
 date: '2024-08-01'
 title: 'Computer Vision Research Assistant'
-company: 'VIS Lab, Robotics Dept, WPI, USA'
+company: 'VIS Lab, Robotics Dept, WPI'
 location: 'Worcester, MA'
 range: 'Aug 2024 – Jan 2025'
 url: 'https://www.wpi.edu/academics/departments/robotics-engineering'

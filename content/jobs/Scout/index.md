@@ -1,7 +1,7 @@
 ---
 date: '2022-12-15'
 title: 'Computer Vision Intern'
-company: 'ISRO'
+company: 'Indian Space Research Org (ISRO)'
 location: 'Bengaluru, India'
 range: 'Dec 2022 – May 2023'
 url: 'https://www.isro.gov.in/'

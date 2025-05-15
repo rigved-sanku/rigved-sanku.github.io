@@ -1,7 +1,7 @@
 ---
 date: '2023-09-01'
 title: 'Computer Vision Research Assistant'
-company: 'Computer Science Dept, WPI, USA'
+company: 'Computer Science Dept, WPI'
 location: 'Worcester, MA'
 range: 'Sept 2023 – Jan 2024'
 url: 'https://www.wpi.edu/academics/departments/computer-science'
