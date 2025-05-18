@@ -33,7 +33,6 @@ const StyledTabList = styled.div`
   list-style: none;
 
   @media (max-width: 600px) {
-    display: flex;
     overflow-x: auto;
     width: calc(100% + 100px);
     padding-left: 50px;
