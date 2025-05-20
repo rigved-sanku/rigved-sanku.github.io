@@ -141,9 +141,9 @@ const About = () => {
               <a href="https://www.honda-ri.com/">Honda Research Institute</a>, where I build
               low-latency driver-intent prediction pipelines that run at &lt;30 ms on embedded GPUs
               of self driving cars (and recently filed my first US patent along the way). Before
-              that I shipped crowd- monitoring and person-reID systems at MUSCO Vision, IA, USA and
-              explored real-time action prediction with Indian Space Research Organization (ISRO),
-              India.
+              that I shipped crowd- monitoring and person-reID systems at MUSCO, IA. Back in India I
+              developed a real-time action prediction pipeline with Indian Space Research
+              Organization (ISRO).
             </p>
 
             <p>
