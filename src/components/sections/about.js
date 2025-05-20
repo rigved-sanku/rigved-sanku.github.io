@@ -149,7 +149,7 @@ const About = () => {
             <p>
               My mission is simple: design perception systems that make robots and vehicles safer,
               smarter, and more human-aware. Outside work you’ll find me open-sourcing tools,
-              mentoring junior devs, or chasing new hiking trails around the Bay Area.
+              indulged in music, or chasing new hiking trails around the Bay Area.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
